@@ -56,7 +56,7 @@ python 05_task4_video_tracking.py
 
 ## Deliverables & Results
 
-* **Report Deliverable**: [`Report.pdf`](https://www.google.com/search?q=./Report.pdf) located at the root of this repository[cite: 2].
+* **Report Deliverable**: [`Report.pdf`](./Report.pdf) located at the root of this repository[cite: 2].
 * **Task 4 Video Tracking Output**: [Public Google Drive Link](https://drive.google.com/file/d/1_r4a-0JjMyHaAlcRM1OdY_KvlZPC4YFP/view?usp=sharing)[cite: 2]
 * **Quantitative Metrics Summary**:
 * **Dev Split**: IoU: `0.3253` | Dice: `0.4183` | Precision: `0.3741` | Recall: `0.7426` | Accuracy: `0.6716`
