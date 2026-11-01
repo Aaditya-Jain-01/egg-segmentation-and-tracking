@@ -40,8 +40,6 @@ python 05_task4_video_tracking.py
 
 ```
 
----
-
 ### 2. Verify Your Final Directory Layout
 
 In your VS Code file tree, verify that your project root contains:
@@ -56,7 +54,6 @@ In your VS Code file tree, verify that your project root contains:
 * `Report.pdf` *(with your Google Drive tracking link and evaluation plots embedded inside)*[cite: 1, 2]
 * `outputs/` *(containing `evaluation_metrics.csv`, `qualitative_plots/`, and `tracked_output.mp4`)*[cite: 1]
 
----
 
 ### 3. Stage and Push to GitHub
 
