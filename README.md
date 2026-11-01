@@ -38,7 +38,7 @@ python 05_task4_video_tracking.py
 
 ```
 
-```
+
 
 ### 2. Verify Your Final Directory Layout
 
